@@ -82,7 +82,7 @@ CORS_ORIGIN_WHITELIST = [
 ]
 
 # change to https://app.example.com in production settings
-CORS_ORIGIN_WHITELIST = ['http://localhost:3000']
+# CORS_ORIGIN_WHITELIST = ['http://localhost:3000']
 
 REST_FRAMEWORK = {
     # Use Django's standard `django.contrib.auth` permissions,
