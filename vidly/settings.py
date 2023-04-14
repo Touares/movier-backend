@@ -78,8 +78,7 @@ CORS_ALLOW_CREDENTIALS = True
 
 # change to https://app.example.com in production settings
 CORS_ORIGIN_WHITELIST = [
-     'http://localhost:3000',
-    'http://127.0.0.1:3000',
+     'https://touaresmovier.netlify.app/',
 ]
 
 # change to https://app.example.com in production settings
